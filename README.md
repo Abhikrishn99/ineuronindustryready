@@ -1,2 +1,2 @@
 ## This is the git tutorial
-## We will learn git
+## We will learn git and have fun
